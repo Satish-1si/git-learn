@@ -1,2 +1,1 @@
-# git-learn
-learning
+satish is javascript developer
